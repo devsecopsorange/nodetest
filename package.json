@@ -1,8 +1,23 @@
 {
-  "name": "example-nodejs-app",
-  "version": "1.0.0",//comentario
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsecopsteam2022/nodetest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsecopsteam2022/nodetest/issues"
+  },
+  "homepage": "https://github.com/devsecopsteam2022/nodetest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
-
