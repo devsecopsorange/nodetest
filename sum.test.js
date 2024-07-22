@@ -1,4 +1,4 @@
-// __tests__/sum.test.js
+// __tests__/sum.test.js // comentario prueba
 const sum = (a, b) => a + b;
 
 test('adds 1 + 2 to equal 3', () => {
