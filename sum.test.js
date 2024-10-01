@@ -1,4 +1,4 @@
-// __tests__/sum.test.js // comentario prueba
+// __tests__/sum.test.js // comentario pru
 const sum = (a, b) => a + b;
 
 asaas_api_token = "hjU_10duxp*345A"
