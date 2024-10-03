@@ -1,7 +1,7 @@
 // __tests__/sum.test.js // comentario pru
 const sum = (a, b) => a + b;
 
-asaas_api_token = "hjU_10duxp*345A"
+api_token = "hjU_10duxp*345A"
 baiducloud_api_accesskey = "hjU_10duxp*345A"				
 //secrets prueba
 test('adds 1 + 2 to equal 3', () => {
